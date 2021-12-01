@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Travel"
+    }
+  },
+  "defaultProject": "Travel",
+  "cli": {
+    "analytics": "31573475-1ac1-4d3d-8cdd-d8b9d1077737"
+  }
 }
